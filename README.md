@@ -5,8 +5,8 @@ Artigu
 
 </h2>
 
-- [English]("./README.md)
-- [Portuguese]("./PORTUGUESE.md")
+- [English](README.md)
+- [Portuguese](PORTUGUESE.md)
 
 ### About
 
